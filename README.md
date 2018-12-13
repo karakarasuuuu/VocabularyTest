@@ -1,7 +1,7 @@
 # VocabularyTest
 A small program that helps you to practice vocabularies of any language.
 
-The program is made by C++. Currently it is designed for Japanese-Taiwanese Mandarin (or Chinese, FYI), but it will able to be used for any other language as long as you create your own database.
+The program is made by C++. Currently it is designed for Japanese, but it will able to be used for any other language as long as you create your own database.
 
 It has some problems now, such as some vocabularies with more than one way to be read have only one correct answer.
 
